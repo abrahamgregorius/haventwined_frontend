@@ -1,5 +1,37 @@
-# Vue 3 + Vite
+# Setup Guide
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+[Backend Repo](https://github.com/abrahamgregorius/haventwined_backend)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## Installation
+
+Make sure you have **Node.js** installed. You can check your version with:
+
+```sh
+node -v
+npm -v
+```
+
+### **1. Clone the Repository**
+```sh
+git clone https://github.com/abrahamgregorius/haventwined_frontend
+cd haventwined_frontend
+```
+### **2. Install Dependencies**
+```sh
+npm install
+```
+### **3. Run the app**
+```sh
+npm run dev
+```
+
+## User Credentials
+Email:
+```
+admin@haventwined.com
+```
+
+Password:
+```
+password
+```
