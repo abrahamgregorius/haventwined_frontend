@@ -14,7 +14,7 @@ defineProps({
             <img
               src="../assets/logo.png"
               class="h-8 me-3"
-              alt="FlowBite Logo"
+              alt=""
             />
           </a>
 
