@@ -17,7 +17,6 @@
         <img
           src="../assets/logo.png"
           class="h-8"
-          alt="Flowbite Logo"
         />
       </router-link>
       <div class="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
