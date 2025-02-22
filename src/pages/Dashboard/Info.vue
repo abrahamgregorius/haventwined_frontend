@@ -54,7 +54,7 @@ const submitForm = async () => {
   <Navbar />
   <Sidebar />
 
-  <div class="mt-15 sm:ml-64 min-h-[93vh] sm:mt-14 p-4 bg-white dark:text-white border-gray-200 dark:bg-gray-800 dark:border-gray-700">
+  <div class="mt-15 sm:ml-64 min-h-[95vh] sm:mt-14 p-4 bg-white dark:text-white border-gray-200 dark:bg-gray-800 dark:border-gray-700">
     <div v-if="loading">Loading...</div>
     <div v-else-if="error">Error: {{ error }}</div>
 

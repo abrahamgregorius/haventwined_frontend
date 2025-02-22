@@ -17,7 +17,7 @@ import Carousel from "./Carousel.vue";
           class="text-xs bg-blue-600 rounded-full text-white px-4 py-1.5 me-3"
           >New</span
         >
-        <span class="text-sm font-medium">Event was added! See what's new</span>
+        <span class="text-sm font-medium">Event ditambahkan! Lihat terbaru</span>
         <svg
           class="w-2.5 h-2.5 ms-2 rtl:rotate-180"
           aria-hidden="true"

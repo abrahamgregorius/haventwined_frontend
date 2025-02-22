@@ -2,20 +2,7 @@
 
 # 📌 Ringkasan
 
-Proyek ini adalah aplikasi frontend berbasis **Vue 3**, menggunakan **Vue Router** untuk navigasi dan **autentikasi berbasis token**.  
-
-## 🔹 Fitur  
-- Vue 3 + Vite  
-- Vue Router untuk navigasi  
-- Middleware autentikasi  
-- Dashboard admin  
-
-## ⚡ Instalasi & Menjalankan  
-```sh
-git clone <repository-url>
-cd <nama-folder-proyek>
-npm install
-npm run dev
+Proyek ini adalah aplikasi frontend berbasis **Vue 3**, menggunakan **Vue Router** untuk navigasi dan **autentikasi berbasis token**. Proyek ini adalah bagian frontend/interface dari aplikasi backendnya.
 
 
 [Backend Repo](https://github.com/abrahamgregorius/haventwined_backend)
