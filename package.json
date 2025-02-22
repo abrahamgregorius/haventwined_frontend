@@ -1,0 +1,25 @@
+{
+  "name": "haventwined_frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.8",
+    "flowbite": "^3.1.2",
+    "swiper": "^11.2.4",
+    "tailwindcss": "^4.0.8",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0",
+    "vue3-carousel": "^0.14.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "daisyui": "^5.0.0-beta.8",
+    "vite": "^6.0.5"
+  }
+}
